@@ -35,3 +35,8 @@ These instructions will help set up a local development environment.
    ```bash
    git clone https://github.com/fizaa/zakat-collection.git
    cd zakat-collection
+# 📦 Zakat Collection App
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
