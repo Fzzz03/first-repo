@@ -1,33 +1,44 @@
 # 📦 Zakat Collection App
 
-![GitHub stars](https://img.shields.io/github/stars/fizaa/zakat-collection?style=social)
-![GitHub forks](https://img.shields.io/github/forks/fizaa/zakat-collection?style=social)
-![GitHub issues](https://img.shields.io/github/issues/fizaa/zakat-collection)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/fizaa/zakat-collection)
-![GitHub last commit](https://img.shields.io/github/last-commit/fizaa/zakat-collection)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</p>
+
+---
 
 ## 🚀 About the Project
 
-The **Zakat Collection App** is in development to become a secure and transparent Zakat donation platform. Currently, the project has integrated **Firebase** for initial backend support, allowing us to manage authentication, user data, and real-time updates. As we expand, blockchain and additional database functionality will enhance the transparency and security of Zakat transactions.
+The **Zakat Collection App** is an innovative platform that aims to streamline Zakat collection, calculation, and distribution. Currently, it leverages **Firebase** for user authentication and data management. As the app develops, blockchain integration (using Rust) and additional database support will be added to increase transparency and security in managing Zakat donations.
 
 ## 🛠️ Technologies Used
 
-- **Backend**: Firebase (for authentication and data management)
-- **Database**: Firebase Firestore (currently in use; may integrate PostgreSQL or MongoDB in the future)
+- **Languages & Frameworks**:  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+  ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)  
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+- **Backend**:  
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## ✨ Current Features
 
-- User Authentication (Firebase)
-- Basic Data Management via Firebase Firestore
+- **Firebase Authentication**: User login and management
+- **Basic Data Handling**: Firestore database integration for user data management
+- **Real-time Updates**: Immediate data synchronization
 
 ## 🚀 Getting Started
 
-These instructions will help set up a local development environment.
+Follow these steps to set up a local development environment:
 
 ### Prerequisites
 
-- Node.js and npm installed
-- Firebase CLI (for deploying and managing Firebase services)
+- Install **Node.js** and **npm**
+- Install **Firebase CLI** for managing Firebase services
 
 ### Installation
 
@@ -35,45 +46,3 @@ These instructions will help set up a local development environment.
    ```bash
    git clone https://github.com/fizaa/zakat-collection.git
    cd zakat-collection
-# 📦 Zakat Collection App
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
-# 📦 Zakat Collection App
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-</p>
-# 📦 Zakat Collection App
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" height="50">
-</p>
-# 📦 Zakat Collection App
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50" height="50">
-</p>
-
-# 📦 Zakat Collection App
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50" style="background-color:white;padding:5px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50" height="50">
-</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50" style="background-color:white;padding:5px;">
-
