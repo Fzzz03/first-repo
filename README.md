@@ -1,20 +1,15 @@
 # 📦 Zakat Collection App
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</p>
+![GitHub stars](https://img.shields.io/github/stars/Fzzz03/firebase_integration?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Fzzz03/firebase_integration?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Fzzz03/firebase_integration)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Fzzz03/firebase_integration)
+![GitHub last commit](https://img.shields.io/github/last-commit/Fzzz03/firebase_integration)
 
----
 
 ## 🚀 About the Project
 
-The **Zakat Collection App** is an innovative platform that aims to streamline Zakat collection, calculation, and distribution. Currently, it leverages **Firebase** for user authentication and data management. As the app develops, blockchain integration (using Rust) and additional database support will be added to increase transparency and security in managing Zakat donations.
-
-## 🛠️ Technologies Used
+The **Zakat Collection App** is in development to become a secure and transparent Zakat donation platform. Currently, the project has integrated **Firebase** for initial backend support, allowing us to manage authentication, user data, and real-time updates. As we expand, blockchain and additional database functionality will enhance the transparency and security of Zakat transactions.
 
 - **Languages & Frameworks**:  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
