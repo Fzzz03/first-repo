@@ -65,4 +65,15 @@ These instructions will help set up a local development environment.
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50" height="50">
 </p>
 
+# 📦 Zakat Collection App
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50" style="background-color:white;padding:5px;">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50" height="50">
+</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50" style="background-color:white;padding:5px;">
 
