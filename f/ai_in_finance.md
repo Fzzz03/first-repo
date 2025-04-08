@@ -1,7 +1,7 @@
 ## Applications of AI in Finance
 Artificial Intelligenceis revolutionizing the world of finance these days. This technology helps us execute trades rapidly, prevent fraud, and improve our investments. Below, I will explain five major applications in detail—describing how each one works, why it is important, and the challenges involved.
 
-## 1. Algorithmic Trading: The Speedster of the Stock Market
+## 1. Algorithmic Trading:
 
 ### What is Algorithmic Trading?
 Algorithmic Trading (or algo-trading) is like having a tireless, super-fast trader working for you. Computers buy and sell stocks, bonds, or currencies based on rules you set—without ever needing a coffee break.
@@ -27,7 +27,7 @@ Here’s the step-by-step process:
 In 2012, Knight Capital lost $440 million in 45 minutes due to a buggy algorithm. Don’t worry, though—algo-trading is usually very safe when tested properly!
 
 
-## 2. Prediction Models: Guessing the Market’s Next Move
+## 2. Prediction Models:
 
 ### What are Prediction Models?
 Prediction Models are like weather forecasts for money. They use AI to study past data—like stock prices or economic trends—to guess what might happen next in the market.
@@ -56,7 +56,7 @@ Here’s how they’re built:
 BlackRock’s Aladdin platform uses prediction models to manage trillions of dollars, forecasting risks and returns for investors.
 
 
-## 3. News and Sentiment Analysis: Reading the Market’s Mood
+## 3. News and Sentiment Analysis:
 
 ### What is Sentiment Analysis?
 News and Sentiment Analysis is like a mood ring for the market. AI scans news articles, tweets, and online posts to figure out how people feel about a company or stock—and how that might move prices.
@@ -110,7 +110,7 @@ Here’s how it catches crooks:
 JPMorgan’s COIN system scans contracts and transactions, catching fraud lightning-fast.
 
 
-## 5. Portfolio Management: Your Personal Investment Coach
+## 5. Portfolio Management:
 
 ### What is AI-Driven Portfolio Management?
 Portfolio Management AI is like a financial advisor who never sleeps. It builds and tweaks your investments based on your goals, risk comfort, and market changes—making expert advice available to everyone.
