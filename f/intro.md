@@ -113,27 +113,24 @@ Once the bot is trained and tested, it’s ready to make predictions:
 
 AI in finance didn’t happen overnight. Here’s how it grew:
 
+### 1. Early Days: Rule-Based Systems
 
-### Stage 1: Rule-Based Systems
+At first, computers in finance followed strict instructions set by humans, called **rule-based systems**. Think of it like a recipe: “If this happens, do that.”
 
-Back in the day, computers used rule-based systems—simple “if this, then that” instructions.
+- **Example**: A rule might say, “Buy a stock when its price goes above its 50-day average.”
+- These systems were useful but not flexible. If the market changed, they couldn’t adjust—they just kept following the same old rules.
 
-**Example:** “If a stock hits its 50-day average, buy it.”  
-**Limit:** No flexibility—markets change, but rules didn’t.
+### 2. Machine Learning: Learning from Data
 
-### Stage 2: Machine Learning
+Then came **machine learning**, where computers started learning from data instead of just following rules. You give them examples (like past stock prices), and they figure out patterns to predict what’s next.
 
-Then came machine learning, letting computers learn from data, not just follow orders.
+- **Example**: If a stock often rises after dropping 5% in a week, machine learning might suggest buying after a dip.
+- This was a big leap because computers could now “learn” and get better over time.
 
-**Example:** ML spots that a stock rises after big news and adapts to predict it.
+### 3. Deep Learning: Handling Complex Data
 
-### Stage 3: Deep Learning
+Today, we have **deep learning**, a more advanced type of machine learning. It uses **neural networks** to tackle huge, messy data—like news articles or social media posts.
 
-Now, deep learning rules the roost, using neural networks to tackle huge datasets.
-
-**Example:** DL scans social media and predicts stock swings from public mood.
-
----
-
-**Big Win:** It’s fast, flexible, and insanely powerful.
+- **Example**: Deep learning can read thousands of news stories about a company and decide if people feel good or bad about it, hinting at whether its stock might go up or down.
+- It’s super powerful because it finds patterns humans might never spot.
 
