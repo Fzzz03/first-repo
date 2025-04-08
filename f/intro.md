@@ -180,3 +180,10 @@ Today, we have deep learning, a more advanced type of machine learning. It uses 
 | Example: "Buy above   |          | Example: Predict stock   |          | Example: Sentiment from   |
 | 50-day average"       |          | rise after 5% drop       |          | news and social media     |
 +-----------------------+          +--------------------------+          +---------------------------+
+flowchart LR
+    A[Rule-Based Systems<br/>- Strict rules<br/>- No adaptability<br/>Example: "Buy above 50-day average"]
+    B[Machine Learning<br/>- Learns from data<br/>- Spots patterns<br/>Example: Predict stock rise after 5% drop]
+    C[Deep Learning<br/>- Neural networks<br/>- Complex data analysis<br/>Example: Sentiment from news and social media]
+    
+    A --> B
+    B --> C
