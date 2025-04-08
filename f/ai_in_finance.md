@@ -19,11 +19,11 @@ Here’s the step-by-step process:
 - **Accuracy:** No emotional slip-ups or tiredness—just precise execution.
 - **Scale:** Can manage tons of trades at once across multiple markets.
 
-###Challenges
+### Challenges
 - **Flash Crashes:** If a glitch happens, prices can plummet suddenly (though this is rare).
 - **Needs Oversight:** Algorithms must be updated regularly to stay effective.
 
-## Real-World Example
+### Real-World Example
 In 2012, Knight Capital lost $440 million in 45 minutes due to a buggy algorithm. Don’t worry, though—algo-trading is usually very safe when tested properly!
 
 
