@@ -72,7 +72,7 @@ ANNs started as simple models but evolved into deep learning as computational po
 ### D. Deep Learning Workflow for Trading Bots
 Here’s how a trading bot uses deep learning—step by step:
 
-(Note: Include the diagram ![deepLearningFlow](images/deepLearningFlow3.png) here to illustrate this workflow!)
+
 
 #### Define the Goal:
 The bot’s job is to predict whether a stock will go up or down based on data like stock prices, news, and trends.
