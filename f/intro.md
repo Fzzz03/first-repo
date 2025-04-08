@@ -111,79 +111,29 @@ Once the bot is trained and tested, it’s ready to make predictions:
 
 # Evolution of AI in Finance
 
-AI in finance has evolved over time—here’s the full journey:
-Evolution of AI in Finance: From Rule-Based Systems to Deep Learning
-
----------------------------
-| Rule-Based Systems     |
----------------------------
-- Early AI in finance
-- Follow strict, human-set rules (e.g., "Buy if price > 50-day average")
-- Inflexible, can't adapt to market changes
-
-          |
-          v
-
----------------------------
-| Machine Learning       |
----------------------------
-- Learns from data instead of fixed rules
-- Finds patterns to predict outcomes (e.g., buy after a 5% dip)
-- Flexible, improves over time
-
-          |
-          v
-
----------------------------
-| Deep Learning          |
----------------------------
-- Advanced machine learning with neural networks
-- Handles complex data (e.g., news, social media)
-- Detects subtle patterns (e.g., sentiment affecting stock prices)
-
-## Early Days: Rule-Based Systems
-
-At first, computers in finance followed strict instructions set by humans, called **rule-based systems**. Think of it like a recipe: “If this happens, do that.”
-
-- **Example:** A rule might say, “Buy a stock when its price goes above its 50-day average.”
-- These systems were useful but not flexible. If the market changed, they couldn’t adjust—they just kept following the same old rules.
-
-## Machine Learning: Learning from Data
-
-Then came machine learning, where computers started learning from data instead of just following rules. You give them examples (like past stock prices), and they figure out patterns to predict what’s next.
-
-- **Example:** If a stock often rises after dropping 5% in a week, machine learning might suggest buying after a dip.
-- This was a big leap because computers could now “learn” and get better over time.
-
-## Deep Learning: Handling Complex Data
-
-Today, we have deep learning, a more advanced type of machine learning. It uses **neural networks** (inspired by the human brain) to tackle huge, messy data—like news articles or social media posts.
-
-- **Example:** Deep learning can read thousands of news stories about a company and decide if people feel good or bad about it, hinting at whether its stock might go up or down.
-- It’s super powerful because it finds patterns humans might never spot.
+AI in finance didn’t happen overnight. Here’s how it grew:
 
 
-+-------------------+        +------------------------+        +-------------------------+
-| Rule-Based Systems| -----> | Machine Learning       | -----> | Deep Learning           |
-+-------------------+        +------------------------+        +-------------------------+
-| - Strict rules    |        | - Learns from data     |        | - Neural networks       |
-| - No adaptability |        | - Spots patterns       |        | - Complex data analysis |
-| Example:          |        | Example:               |        | Example:                |
-| "Buy above 50-day |        | Predict stock rise     |        | Sentiment from news     |
-| average"          |        | after 5% drop          |        | and social media        |
-+-------------------+        +------------------------+        +-------------------------+
-+-----------------------+          +--------------------------+          +---------------------------+
-| Rule-Based Systems    |  ----->  | Machine Learning         |  ----->  | Deep Learning             |
-+-----------------------+          +--------------------------+          +---------------------------+
-| - Strict rules        |          | - Learns from data       |          | - Neural networks         |
-| - No adaptability     |          | - Spots patterns         |          | - Complex data analysis   |
-| Example: "Buy above   |          | Example: Predict stock   |          | Example: Sentiment from   |
-| 50-day average"       |          | rise after 5% drop       |          | news and social media     |
-+-----------------------+          +--------------------------+          +---------------------------+
-flowchart LR
-    A[Rule-Based Systems<br/>- Strict rules<br/>- No adaptability<br/>Example: "Buy above 50-day average"]
-    B[Machine Learning<br/>- Learns from data<br/>- Spots patterns<br/>Example: Predict stock rise after 5% drop]
-    C[Deep Learning<br/>- Neural networks<br/>- Complex data analysis<br/>Example: Sentiment from news and social media]
-    
-    A --> B
-    B --> C
+# Stage 1: Rule-Based Systems
+
+Back in the day, computers used rule-based systems—simple “if this, then that” instructions.
+
+**Example:** “If a stock hits its 50-day average, buy it.”  
+**Limit:** No flexibility—markets change, but rules didn’t.
+
+# Stage 2: Machine Learning
+
+Then came machine learning, letting computers learn from data, not just follow orders.
+
+**Example:** ML spots that a stock rises after big news and adapts to predict it.
+
+# Stage 3: Deep Learning
+
+Now, deep learning rules the roost, using neural networks to tackle huge datasets.
+
+**Example:** DL scans social media and predicts stock swings from public mood.
+
+---
+
+**Big Win:** It’s fast, flexible, and insanely powerful.
+
