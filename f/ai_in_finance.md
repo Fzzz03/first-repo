@@ -1,12 +1,12 @@
 ## Applications of AI in Finance
 Artificial Intelligenceis revolutionizing the world of finance these days. This technology helps us execute trades rapidly, prevent fraud, and improve our investments. Below, I will explain five major applications in detail—describing how each one works, why it is important, and the challenges involved.
 
-# 1. Algorithmic Trading: The Speedster of the Stock Market
+## 1. Algorithmic Trading: The Speedster of the Stock Market
 
-## What is Algorithmic Trading?
+### What is Algorithmic Trading?
 Algorithmic Trading (or algo-trading) is like having a tireless, super-fast trader working for you. Computers buy and sell stocks, bonds, or currencies based on rules you set—without ever needing a coffee break.
 
-## How It Works
+### How It Works
 Here’s the step-by-step process:
 
 - **Step 1: Set the Rules:** You tell the computer what to do, like “Buy 100 Apple shares if the price hits $150.”
@@ -14,12 +14,12 @@ Here’s the step-by-step process:
 - **Step 3: Execute Trades:** When the conditions match your rules, it instantly makes the trade. In high-frequency trading (HFT), it can do thousands of trades per second!
 - **Step 4: Learn and Improve:** Some advanced systems tweak themselves based on past trades to perform better.
 
-## Why It’s Important
+### Why It’s Important
 - **Speed:** It’s way faster than any human could ever be.
 - **Accuracy:** No emotional slip-ups or tiredness—just precise execution.
 - **Scale:** Can manage tons of trades at once across multiple markets.
 
-## Challenges
+###Challenges
 - **Flash Crashes:** If a glitch happens, prices can plummet suddenly (though this is rare).
 - **Needs Oversight:** Algorithms must be updated regularly to stay effective.
 
