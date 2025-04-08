@@ -17,7 +17,7 @@ You may have come across terms like AI, Machine Learning, Deep Learning, and Neu
 
 ---
 
-## B. Types of Machine Learning
+## Types of Machine Learning
 
 There are three main types of machine learning—let’s break them down with examples and trading applications:
 
@@ -42,7 +42,7 @@ There are three main types of machine learning—let’s break them down with ex
 
 ---
 
-## III. Deep Learning and Neural Networks
+## Deep Learning and Neural Networks
 
 ### A. What is Deep Learning?
 Deep learning is a type of AI that uses something called neural networks (like a virtual brain) to learn from data. It’s great at finding complex patterns in large amounts of data, like stock prices, news, and trends.
