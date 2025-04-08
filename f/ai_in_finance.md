@@ -27,12 +27,12 @@ Here’s the step-by-step process:
 In 2012, Knight Capital lost $440 million in 45 minutes due to a buggy algorithm. Don’t worry, though—algo-trading is usually very safe when tested properly!
 
 
-# 2. Prediction Models: Guessing the Market’s Next Move
+## 2. Prediction Models: Guessing the Market’s Next Move
 
-## What are Prediction Models?
+### What are Prediction Models?
 Prediction Models are like weather forecasts for money. They use AI to study past data—like stock prices or economic trends—to guess what might happen next in the market.
 
-## How It Works
+### How It Works
 Here’s how they’re built:
 
 - **Step 1: Collect Data:** Gather info like stock histories, company earnings, or interest rates.
@@ -43,25 +43,25 @@ Here’s how they’re built:
   - **Machine Learning:** Dig deeper to find complex patterns.
 - **Step 4: Predict:** Say something like, “Amazon’s stock might rise 4% next month.”
 
-## Why It’s Important
+### Why It’s Important
 - **Insights:** Uncovers trends humans might miss.
 - **Speed:** Analyzes massive data sets in seconds.
 - **Decision Help:** Guides investors on when to buy or sell.
 
-## Challenges
+### Challenges
 - **Surprises:** Unexpected events (like a pandemic) can mess up predictions.
 - **Overfitting:** Models might focus too much on old data and miss new shifts.
 
-## Real-World Example
+### Real-World Example
 BlackRock’s Aladdin platform uses prediction models to manage trillions of dollars, forecasting risks and returns for investors.
 
 
-# 3. News and Sentiment Analysis: Reading the Market’s Mood
+## 3. News and Sentiment Analysis: Reading the Market’s Mood
 
-## What is Sentiment Analysis?
+### What is Sentiment Analysis?
 News and Sentiment Analysis is like a mood ring for the market. AI scans news articles, tweets, and online posts to figure out how people feel about a company or stock—and how that might move prices.
 
-## How It Works
+### How It Works
 Here’s the process:
 
 - **Step 1: Collect Data:** Pull info from news sites, Twitter, Reddit, and more.
@@ -70,25 +70,25 @@ Here’s the process:
   - “Google’s in trouble” → Negative
 - **Step 3: Predict Impact:** Combine scores to guess if the stock will rise or fall.
 
-## Why It’s Important
+### Why It’s Important
 - **Real-Time Updates:** Tracks market vibes as they happen.
 - **Huge Scope:** Analyzes millions of sources at once.
 - **Early Warnings:** Spots trends before they fully hit.
 
-## Challenges
+### Challenges
 - **Tricky Language:** AI might miss sarcasm, jokes, or fake news.
 - **Accuracy:** Sometimes gets the tone wrong.
 
-## Real-World Example
+### Real-World Example
 In 2021, AI caught Reddit buzz about GameStop, helping traders ride the stock’s wild surge.
 
 
-# 4. Fraud Detection: The AI That Stops Thieves
+## 4. Fraud Detection: The AI That Stops Thieves
 
-## What is Fraud Detection AI?
+### What is Fraud Detection AI?
 Fraud Detection AI is like a 24/7 security guard for your money. It watches every transaction and flags anything odd—like a sudden $10,000 withdrawal from an account that usually spends $50.
 
-## How It Works
+### How It Works
 Here’s how it catches crooks:
 
 - **Step 1: Monitor Transactions:** Tracks every payment, transfer, or trade.
@@ -97,25 +97,25 @@ Here’s how it catches crooks:
   - Logins from strange places.
 - **Step 3: Act Fast:** Sends alerts or freezes accounts if something seems off.
 
-## Why It’s Important
+### Why It’s Important
 - **Quick Action:** Stops fraud before it spirals.
 - **Big Scale:** Watches millions of transactions at once.
 - **Gets Smarter:** Learns new fraud tricks over time.
 
-## Challenges
+### Challenges
 - **Sneaky Fraudsters:** Criminals keep coming up with new schemes.
 - **False Flags:** Might accidentally flag normal activity.
 
-## Real-World Example
+### Real-World Example
 JPMorgan’s COIN system scans contracts and transactions, catching fraud lightning-fast.
 
 
-# 5. Portfolio Management: Your Personal Investment Coach
+## 5. Portfolio Management: Your Personal Investment Coach
 
-## What is AI-Driven Portfolio Management?
+### What is AI-Driven Portfolio Management?
 Portfolio Management AI is like a financial advisor who never sleeps. It builds and tweaks your investments based on your goals, risk comfort, and market changes—making expert advice available to everyone.
 
-## How It Works
+### How It Works
 Here’s the breakdown:
 
 - **Step 1: Know You:** Looks at your age, goals, and risk level.
@@ -123,16 +123,16 @@ Here’s the breakdown:
 - **Step 3: Adjust It:** Rebalances your portfolio as markets shift.
   - **Robo-Advisors:** Platforms like Wealthfront automate it all.
 
-## Why It’s Important
+### Why It’s Important
 - **For Everyone:** Brings pro advice to regular folks.
 - **Efficient:** Saves time and cuts costs.
 - **Objective:** Bases choices on data, not gut feelings.
 
-## Challenges
+### Challenges
 - **Old Data:** Relies on past trends, which don’t always predict tomorrow.
 - **Sudden Shocks:** Might lag during unexpected market drops.
 
-## Real-World Example
+### Real-World Example
 Vanguard’s Personal Advisor uses AI (plus a human touch) to manage billions in investments.
 
 
