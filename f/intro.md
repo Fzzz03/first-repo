@@ -161,3 +161,14 @@ Today, we have deep learning, a more advanced type of machine learning. It uses 
 
 - **Example:** Deep learning can read thousands of news stories about a company and decide if people feel good or bad about it, hinting at whether its stock might go up or down.
 - It’s super powerful because it finds patterns humans might never spot.
+
+
++-------------------+        +------------------------+        +-------------------------+
+| Rule-Based Systems| -----> | Machine Learning       | -----> | Deep Learning           |
++-------------------+        +------------------------+        +-------------------------+
+| - Strict rules    |        | - Learns from data     |        | - Neural networks       |
+| - No adaptability |        | - Spots patterns       |        | - Complex data analysis |
+| Example:          |        | Example:               |        | Example:                |
+| "Buy above 50-day |        | Predict stock rise     |        | Sentiment from news     |
+| average"          |        | after 5% drop          |        | and social media        |
++-------------------+        +------------------------+        +-------------------------+
