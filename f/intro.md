@@ -112,6 +112,34 @@ Once the bot is trained and tested, it’s ready to make predictions:
 # Evolution of AI in Finance
 
 AI in finance has evolved over time—here’s the full journey:
+Evolution of AI in Finance: From Rule-Based Systems to Deep Learning
+
+---------------------------
+| Rule-Based Systems     |
+---------------------------
+- Early AI in finance
+- Follow strict, human-set rules (e.g., "Buy if price > 50-day average")
+- Inflexible, can't adapt to market changes
+
+          |
+          v
+
+---------------------------
+| Machine Learning       |
+---------------------------
+- Learns from data instead of fixed rules
+- Finds patterns to predict outcomes (e.g., buy after a 5% dip)
+- Flexible, improves over time
+
+          |
+          v
+
+---------------------------
+| Deep Learning          |
+---------------------------
+- Advanced machine learning with neural networks
+- Handles complex data (e.g., news, social media)
+- Detects subtle patterns (e.g., sentiment affecting stock prices)
 
 ## Early Days: Rule-Based Systems
 
