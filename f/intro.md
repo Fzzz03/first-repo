@@ -13,7 +13,7 @@ You may have come across terms like AI, Machine Learning, Deep Learning, and Neu
 **Deep Learning (DL):** A more advanced type of ML that uses artificial neural networks (inspired by the human brain) to make complex decisions.  
 **Neural Networks:** The backbone of deep learning, helping computers recognize patterns in data, like images, text, or stock prices.
 
-(Note: Include the diagram ![aimlbox](images/a.png) here to visualize this relationship!)
+(Note: Include the diagram )
 
 ---
 
@@ -21,7 +21,7 @@ You may have come across terms like AI, Machine Learning, Deep Learning, and Neu
 
 There are three main types of machine learning—let’s break them down with examples and trading applications:
 
-(Note: Include the diagram ![ML-Types](images/ml.png) here for a visual overview!)
+(Note: Include the diagram)
 
 1. **Supervised Learning**  
    **Definition:** The model is trained on labeled data, meaning it learns from examples that already have correct answers.  
@@ -58,7 +58,7 @@ Artificial neural networks (ANNs) are inspired by the structure and function of 
   Artificial neurons receive numerical inputs, apply a function (like activation functions), and pass signals to the next layer.  
   Weights and biases adjust during training to "learn" patterns, similar to how synapses adjust in the brain.
 
-(Note: Include the diagram ![Ann-inspired-human](images/Ann-inspired-human.png) here to show this comparison!)
+(Note: Include the diagram )
 
 ### C. How ANNs Led to Deep Learning
 ANNs started as simple models but evolved into deep learning as computational power increased. Early ANNs had a few layers, but deep learning introduced deep neural networks (DNNs) with many hidden layers, allowing models to learn much more complex patterns.
