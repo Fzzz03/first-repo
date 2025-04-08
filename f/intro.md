@@ -114,20 +114,20 @@ Once the bot is trained and tested, it’s ready to make predictions:
 AI in finance didn’t happen overnight. Here’s how it grew:
 
 
-# Stage 1: Rule-Based Systems
+### Stage 1: Rule-Based Systems
 
 Back in the day, computers used rule-based systems—simple “if this, then that” instructions.
 
 **Example:** “If a stock hits its 50-day average, buy it.”  
 **Limit:** No flexibility—markets change, but rules didn’t.
 
-# Stage 2: Machine Learning
+### Stage 2: Machine Learning
 
 Then came machine learning, letting computers learn from data, not just follow orders.
 
 **Example:** ML spots that a stock rises after big news and adapts to predict it.
 
-# Stage 3: Deep Learning
+### Stage 3: Deep Learning
 
 Now, deep learning rules the roost, using neural networks to tackle huge datasets.
 
