@@ -135,7 +135,7 @@ Here’s the breakdown:
 ### Real-World Example
 Vanguard’s Personal Advisor uses AI (plus a human touch) to manage billions in investments.
 
--
+---
 
 AI is changing finance in amazing ways—making trading lightning-fast, investments smarter, and money safer. These five applications—**Algorithmic Trading, Prediction Models, News and Sentiment Analysis, Fraud Detection, and Portfolio Management**—show its power. But it’s not flawless; surprises and evolving challenges keep things interesting.
 
