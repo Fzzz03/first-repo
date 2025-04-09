@@ -13,7 +13,7 @@ You may have come across terms like AI, Machine Learning, Deep Learning, and Neu
 **Deep Learning (DL):** A more advanced type of ML that uses artificial neural networks (inspired by the human brain) to make complex decisions.  
 **Neural Networks:** The backbone of deep learning, helping computers recognize patterns in data, like images, text, or stock prices.
 
-(Note: Include the diagram ![aimlbox](images/a.png) here to visualize this relationship!)
+(Note: Include the diagram (images/a.png) here to visualize this relationship!)
 
 ---
 
