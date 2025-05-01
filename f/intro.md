@@ -21,7 +21,7 @@ You may have come across terms like AI, Machine Learning, Deep Learning, and Neu
 
 There are three main types of machine learning—let’s break them down with examples and trading applications:
 
- ![ML-Types](images/ml.png)
+ ![Alt text](images/ml.png)
 
 1. **Supervised Learning**  
    **Definition:** The model is trained on labeled data, meaning it learns from examples that already have correct answers.  
