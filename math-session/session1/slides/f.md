@@ -12,7 +12,7 @@ Alex’s goal: predict the percentage change in stock price (y) given a sentimen
 
 ---
 
-## **Polished Core Lecture**
+
 
 ### **Step 1: Linear Models – The Foundation of AI Predictions**
 
@@ -169,20 +169,5 @@ Both suggest \~–5.3% drop, guiding Alex’s decision to reduce positions.
 
 ---
 
-## **Conclusion & Next Steps**
 
-**Key Takeaways:**
-
-* **Linear models:** Simple, interpretable, good for moderate moves.
-* **Quadratic models:** Handle volatility, capture extreme swings.
-
-**Next Steps:**
-
-1. Explore higher-degree polynomials or regularization (Ridge, Lasso).
-2. Add features: volume, technical indicators, macro variables.
-3. Deploy models in real-time trading pipelines with continuous backtesting.
-
----
-
-*End of Comprehensive Lecture*
 
